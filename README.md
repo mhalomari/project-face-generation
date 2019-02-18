@@ -1,2 +1,2 @@
 # project-face-generation
-Part of the DL Nanodegree course at Udacity
+Part of the Deep Learning Nanodegree course at Udacity
